@@ -1,0 +1,8 @@
+{
+  "name": "CSU Law Beadle Management System",
+  "description": "Academic attendance tracker, class documentation log, and monthly Dean's report generator for Laws on Local Government at Cagayan State University.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
